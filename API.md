@@ -1,1 +1,1 @@
-## [This page has moved. Click here to go to the new location! :)](http://bevry.me/docpad/api)
+## [This page has moved. Click here to go to the new location! :)](http://docpad.org/docs/api)

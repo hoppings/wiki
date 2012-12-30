@@ -1,1 +1,1 @@
-## [This page has moved. Click here to go to the new location! :)](http://bevry.me/docpad/plugin-write)
+## [This page has moved. Click here to go to the new location! :)](http://docpad.org/docs/plugin-write)
