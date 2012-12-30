@@ -41,16 +41,12 @@ Discover new Skeletons for DocPad, and themes waiting to be coded up right here.
 Getting bugs and errrors? Try here first.
 
 
-## [GitHub Issue Tracker](https://github.com/bevry/docpad/issues)
+## [GitHub Issue Tracker](http://docpad.org/issues)
 Use the GitHub issue tracker for bug reports and feature requests.
 
 
-## [Support Forum](https://groups.google.com/forum/#!forum/docpad)
-Use the Google Group for general purpose discussions and questions about DocPad.
-
-
-## [Social Group](https://www.facebook.com/groups/docpad/)
-Use the Facebook Group for a more personal discussion about DocPad. Including events, meetups, and getting to know each other posts.
+## [Support Forum](http://docpad.org/forum)
+Use the forum for questions about DocPad
 
 
 ## [IRC Chat Room](irc://irc.freenode.net/docpad)
